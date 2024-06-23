@@ -1,1 +1,1 @@
-# netfilx-analysis-projects
+# netflix analysis projects
